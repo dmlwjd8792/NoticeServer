@@ -1,13 +1,13 @@
 {
   "env": "live",
-  "version": "1.0.4",
+  "version": "1.0.5",
 
   "event": {
     "enabled": true,
-    "text": "주말 경험치 2배"
+    "text": "테스트"
   },
 
   "notice": {
-    "text": "1/19 점검 완료"
+    "text": "테스트"
   }
 }
