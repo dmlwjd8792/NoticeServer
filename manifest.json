@@ -1,0 +1,7 @@
+{
+  "version": "1.0.0",
+  "clientZipUrl": "https://github.com/ID/REPO/releases/download/v1.0.3/테스트서버.zip",
+  "clientZipSha256": "187A53ECFFC159DAAE880574ACAE1526D4329AEE11AFA5F341A6BC360BCB62D8",
+  "installDirName": "BBang",
+  "exeRelativePath": "BBang\\MapleStory.exe"
+}
