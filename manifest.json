@@ -1,7 +1,9 @@
 {
   "version": "1.0.0",
-  "clientZipUrl": "https://github.com/ID/REPO/releases/download/v1.0.3/테스트서버.zip",
+  "clientZipUrl": "https://drive.google.com/file/d/1qitk7k2f-BZmhKFd8qN0sP1OmBn5OSUX/view?usp=sharing",
   "clientZipSha256": "187A53ECFFC159DAAE880574ACAE1526D4329AEE11AFA5F341A6BC360BCB62D8",
-  "installDirName": "BBang",
-  "exeRelativePath": "BBang\\MapleStory.exe"
+  "skillCheck": {
+    "path": "Data/Skill",
+    "sha256": "7BEA51AEAC2272412C98404AAB3239B23F42227103C3CBE2FECEBAF334FF467E"
+  }
 }
