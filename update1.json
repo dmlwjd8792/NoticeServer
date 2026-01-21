@@ -1,13 +1,13 @@
 {
   "env": "live",
-  "version": "1.0.5",
+  "version": "1.0.0",
 
   "event": {
     "enabled": true,
-    "text": "테스트"
+    "text": "뺑이서버"
   },
 
   "notice": {
-    "text": "테스트"
+    "text": "홍보"
   }
 }
